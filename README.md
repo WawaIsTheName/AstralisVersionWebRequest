@@ -1,7 +1,7 @@
 # AstralisVersionWebRequest
 Used in the Astralis version requester
 
-Current Version Features
+Current Version Features - last updated on version 3.2.6
 
 - Performance Optimized
 - Third Person Player Spectating (yourself or others)
